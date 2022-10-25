@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChildishFutuka
+- 👀 I’m interested in Java and SQL 
+- 🌱 I’m currently learning OOP in Java
