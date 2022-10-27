@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ChildishFutuka
 - 👀 I’m interested in Java and SQL 
 - 🌱 I’m currently learning OOP in Java
-- 🔗 My linkedIn profile is here --> linkedin.com/in/furkan-tugay-kaya-267a1a1ab
+- 🔗 My linkedIn profile is here --> linkedin.com/in/furkan-tugay-kaya/
